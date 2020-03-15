@@ -22,7 +22,7 @@ menu:
     url: https://github.com/Code-MonkeyRookie
     target: _blank
   weibo:
-    url: 
+    url: false
     # http://www.weibo.com/ysweb
     target: _blank
   link:
