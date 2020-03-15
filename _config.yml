@@ -5,15 +5,16 @@
 # Site
 title: CodeW's Blog
 subtitle: '秋名山车神！GO！GO！GO！'
-description: ''
-keywords:
+description: '欢迎来到我的Blog，在这里，我们共同学习！冲！'
+keywords: CodeW's Blog
 author: CodeY
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+# http://yoursite.com
+url: https://code-monkeyrookie.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -99,3 +100,12 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+  
+
+
