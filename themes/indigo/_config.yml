@@ -22,7 +22,8 @@ menu:
     url: https://github.com/Code-MonkeyRookie
     target: _blank
   weibo:
-    url: http://www.weibo.com/ysweb
+    url: 
+    # http://www.weibo.com/ysweb
     target: _blank
   link:
     text: 测试
