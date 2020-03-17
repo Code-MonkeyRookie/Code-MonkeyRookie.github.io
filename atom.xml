@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://code-monkeyrookie.github.io/"/>
-  <updated>2020-03-16T10:39:17.032Z</updated>
+  <updated>2020-03-17T01:03:09.484Z</updated>
   <id>https://code-monkeyrookie.github.io/</id>
   
   <author>
@@ -17,34 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>C语言—文件操作</title>
-    <link href="https://code-monkeyrookie.github.io/2020/03/16/C%E8%AF%AD%E8%A8%80%E2%80%94%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/"/>
-    <id>https://code-monkeyrookie.github.io/2020/03/16/C%E8%AF%AD%E8%A8%80%E2%80%94%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/</id>
-    <published>2020-03-16T06:38:00.000Z</published>
-    <updated>2020-03-16T10:39:17.032Z</updated>
+    <title>每日一部美剧赏析</title>
+    <link href="https://code-monkeyrookie.github.io/2020/03/17/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%83%A8%E7%BE%8E%E5%89%A7%E8%B5%8F%E6%9E%90/"/>
+    <id>https://code-monkeyrookie.github.io/2020/03/17/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%83%A8%E7%BE%8E%E5%89%A7%E8%B5%8F%E6%9E%90/</id>
+    <published>2020-03-17T00:52:00.000Z</published>
+    <updated>2020-03-17T01:03:09.484Z</updated>
     
-    <content type="html"><![CDATA[<p>C语言中的文件操作</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<p>今天，赏析一部美剧，过个充实的一天<br><video src="https://wp.baipiao.tk:8081/files/%E6%98%8E%E6%97%A5%E4%BC%A0%E5%A5%87.DCs.Legends.of.Tomorrow.S05E07.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.HDTVrip.720P-%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.mp4" width="800px" height="600px" controls="controls"></video></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;C语言中的文件操作&lt;/p&gt;
-&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { r
+        &lt;p&gt;今天，赏析一部美剧，过个充实的一天&lt;br&gt;&lt;video src=&quot;https://wp.baipiao.tk:8081/files/%E6%98%8E%E6%97%A5%E4%BC%A0%E5%A5%87.DCs.Legends.of.Tomorrow.S05E07.%E4
       
     
     </summary>
     
     
-      <category term="C语言" scheme="https://code-monkeyrookie.github.io/categories/C%E8%AF%AD%E8%A8%80/"/>
-    
-    
-      <category term="C语言" scheme="https://code-monkeyrookie.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
-    
-      <category term="文件操作" scheme="https://code-monkeyrookie.github.io/tags/%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/"/>
     
   </entry>
   
